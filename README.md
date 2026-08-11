@@ -1,4 +1,3 @@
-# Healthcare-Application-Support-Incident-Management-System
 
 # Healthcare Application Support & Incident Management System
 
