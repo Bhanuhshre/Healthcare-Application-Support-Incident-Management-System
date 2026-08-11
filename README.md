@@ -1,4 +1,3 @@
-
 # Healthcare Application Support & Incident Management System
 
 A support desk tool for healthcare IT teams: track the applications you
